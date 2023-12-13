@@ -1,6 +1,4 @@
-
 ##### **SECURITY & SAFU**
-
 
 * [ ] KYC : https://content.assuredefi.com/verification-package-content/wisetools
 * [ ] AUDIT : (pre-Link coming soon)
@@ -11,7 +9,6 @@
 
 * Website : https://wisetools.io/
 * Twitter : https://twitter.com/wisetoolsacc
-
 * Telegram : https://t.me/Wisetools_Portal
 * All wisetools links : https://linktr.ee/wisetools
 
