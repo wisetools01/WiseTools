@@ -10,7 +10,7 @@
 
 ##### ***SOCIALS***
 
-* Website : https://wisetools.io/
+* Website : https://wisetools.io
 * Twitter : https://twitter.com/wisetoolsacc
 * Telegram : https://t.me/Wisetools_Portal
 * All wisetools links : https://linktr.ee/wisetools
