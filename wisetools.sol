@@ -9,21 +9,23 @@
         |__/|__/_/____/\___/_/  \____/\____/_/____/  
      WISETOOLS Leading the Way in Blockchain-Powered Tools        
 
-KYC : https://content.assuredefi.com/verification-package-content/wisetools 
-AUDIT :
+AUDIT & KYC : https://content.assuredefi.com/verification-package-content/wisetools 
+
+DOWNLOAD WISEWALLET APP NOW ==> https://play.google.com/store/apps/details?id=com.wisetools.app
 
 ---------------------------------------------
 
-Website : https://wisetools.io/
-Twitter : https://twitter.com/wisetoolsacc
 Telegram : https://t.me/Wisetools_Portal
+Website : https://wisetools.io/
+Whitepaper : https://docs.wisetools.io/
+Twitter : https://twitter.com/wisetoolsacc
 All wisetools links : https://linktr.ee/wisetools
 
 ---------------------------------------------
 
 WiseDex : https://dex.wisetools.io/
-Whitepaper : https://docs.wisetools.io/
-WisetoolsBOT : https://t.me/WiseTools_Bot
+WiseSniper : https://t.me/WiseSniper_bot
+WiseChecker : https://t.me/WiseChecker_Bot
 
 ---------------------------------------------
 */
